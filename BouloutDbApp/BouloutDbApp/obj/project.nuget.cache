@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M0zICFluCoE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rey\\source\\repos\\BouloutDbApp\\BouloutDbApp\\BouloutDbApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rey\\.nuget\\packages\\system.data.oledb\\10.0.1\\system.data.oledb.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

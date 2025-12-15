@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BouloutDbApp/1.0.0": {
+        "dependencies": {
+          "System.Data.OleDb": "10.0.1"
+        },
+        "runtime": {
+          "BouloutDbApp.dll": {}
+        }
+      },
+      "System.Data.OleDb/10.0.1": {
+        "runtime": {
+          "lib/net10.0/System.Data.OleDb.dll": {
+            "assemblyVersion": "10.0.0.1",
+            "fileVersion": "10.0.125.57005"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net10.0/System.Data.OleDb.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.1",
+            "fileVersion": "10.0.125.57005"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BouloutDbApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.OleDb/10.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/bjlZtqhuiVISOdm/6rTDDDgSkLxzNVgjay1QYxBqilKG9YQ7UCBwTmUoGErxAEUr6DYn3PBKqjiFwDbzu8lzg==",
+      "path": "system.data.oledb/10.0.1",
+      "hashPath": "system.data.oledb.10.0.1.nupkg.sha512"
+    }
+  }
+}
